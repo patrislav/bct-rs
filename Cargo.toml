@@ -1,7 +1,7 @@
 [package]
 name = "bct"
 version = "0.1.0"
-authors = ["Patryk Kalinowski <patrislav7@gmail.com>"]
+authors = ["Patryk Kalinowski <patryk@kalinowski.dev>"]
 edition = "2018"
 
 description = "A simple Binary-Coded Ternary implementation"
