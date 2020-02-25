@@ -1,0 +1,13 @@
+[package]
+name = "bct"
+version = "0.1.0"
+authors = ["Patryk Kalinowski <patrislav7@gmail.com>"]
+edition = "2018"
+
+description = "A simple Binary-Coded Ternary implementation"
+repository = "https://github.com/patrislav/bct-rs"
+readme = "README.md"
+license = "MIT"
+
+[badges]
+maintenance = { status = "experimental" }
